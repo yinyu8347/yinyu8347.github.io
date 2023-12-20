@@ -4,8 +4,7 @@ title = '尹宇'
 theme = 'ananke'
 publishDir = "docs"
 
-[markup]
-defaultMarkdownHandler = "goldmark"
+
 
 [markup.goldmark]
 [markup.goldmark.renderer]
