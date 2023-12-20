@@ -2,7 +2,7 @@
 title: "中国铁路“复兴号”家族"
 
 description: "兰局火车迷协会"
-description: "图片素材来源于微博用户： @铁路小亨 ； @SS-287 ; @Blue_明
+description: "图片素材来源于微博用户： @铁路小亨 ； @SS-287 ; @Blue_明"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
