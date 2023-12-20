@@ -1,4 +1,4 @@
-baseURL = 'https://yinyu8347.github.io/hugonews/'
+baseURL = 'https://yinyu8347.github.io/'
 languageCode = 'en-us'
 title = '尹宇'
 theme = 'ananke'
